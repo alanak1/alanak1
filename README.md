@@ -25,7 +25,6 @@
 <img align="center" alt="javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
 <img align="center" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />  
 <img align="center" alt="php" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />  
-<img align="center" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
 <br><br>
