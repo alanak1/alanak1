@@ -25,16 +25,6 @@ Estudante de Cibersegurança</h3>
 
 ---
 
-## Projetos
-
-- **StudyFlow** – Sistema web com foco em desenvolvimento seguro (SSDLC)
-- **FindHub** – Aplicação web segura para busca de pessoas desaparecidas
-- **Portal Vida Livre** – Plataforma web com autenticação e proteção de dados
-- **BookShell** – Sistema com autenticação e MFA
-- **Arquitetura Segura** – Projeto com DMZ, firewall, segmentação de rede e monitoramento
-
----
-
 ## Estatísticas do GitHub
 
 <p align="center">
