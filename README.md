@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+Alana+Vasconcelos;Estudante+de+Ciberseguran%C3%A7a;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Linux+%7C+Red+Team+%7C+Blue+Team" />
 </h1>
----
 
 ## Sobre mim
 
