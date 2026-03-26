@@ -8,7 +8,6 @@
 
 - Estudante de **Cibersegurança**
 - Conhecimento em **Linux, redes e segurança de aplicações web**
-- Estudando **Purple Team**
 - Projetos com foco em **desenvolvimento seguro (SSDLC)**
 
 <br/>
