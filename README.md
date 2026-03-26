@@ -23,12 +23,9 @@
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-stats.as93.net/api?username=alanak1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-stats.as93.net/api/top-langs/?username=alanak1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alanak1&theme=tokyonight&hide_border=true"/>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alanak1&color=9745F5&style=flat-square&label=visitas+ao+perfil"/>
+</p>
 <br/>
