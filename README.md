@@ -32,19 +32,3 @@
 </p>
 
 <br/>
-
-## Contribuições
-
-<p align="center">
-  <img src="https://github.com/alanak1/alanak1/blob/output/snake.svg" alt="snake animation"/>
-</p>
-
-<br/>
-
-## Conecte-se comigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/alana-vasconcelos-b703941a0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
