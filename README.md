@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+Alana+Vasconcelos;Estudante+de+Ciberseguran%C3%A7a;Desenvolvedora+Web;Linux+%7C+Seguran%C3%A7a+%7C+Backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+Alana+Vasconcelos;Estudante+de+Ciberseguran%C3%A7a;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Linux+%7C+Red+Team+%7C+Blue+Team" />
 </h1>
 
 <h3 align="center">
-Estudante de Cibersegurança | Desenvolvimento Web | Segurança da Informação
+Estudante de Cibersegurança | Segurança da Informação
 </h3>
 
 ---
@@ -11,27 +11,28 @@ Estudante de Cibersegurança | Desenvolvimento Web | Segurança da Informação
 ## Sobre mim
 
 - Estudante de **Cibersegurança**
-- Interesse em **Segurança da Informação, Backend e Linux**
-- Desenvolvimento de aplicações web com foco em **segurança (SSDLC)**
-- Projetos acadêmicos e pessoais voltados para **segurança, autenticação e proteção de dados**
+- Interesse em **Segurança da Informação, Pentest e Hardening**
+- Conhecimento em **Linux, redes e segurança de aplicações web**
+- Estudando **Red Team, Blue Team e Purple Team**
+- Projetos com foco em **desenvolvimento seguro (SSDLC)**
 
 ---
 
 ## Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,php,mysql,js,html,css,git,github,python,java" />
+<img src="https://skillicons.dev/icons?i=linux,python,php,mysql,js,git,github,bash" />
 </p>
 
 ---
 
 ## Projetos
 
-- **StudyFlow** – Sistema web para organização de estudos com foco em desenvolvimento seguro (SSDLC)
-- **FindHub** – Plataforma para busca de pessoas desaparecidas com foco em segurança
-- **Portal Vida Livre** – Plataforma que conecta pessoas com vícios a profissionais de saúde
-- **Livroteca** – Sistema de livraria online
+- **StudyFlow** – Sistema web com foco em desenvolvimento seguro (SSDLC)
+- **FindHub** – Aplicação web segura para busca de pessoas desaparecidas
+- **Portal Vida Livre** – Plataforma web com autenticação e proteção de dados
 - **BookShell** – Sistema com autenticação e MFA
+- **Arquitetura Segura** – Projeto com DMZ, firewall, segmentação de rede e monitoramento
 
 ---
 
