@@ -23,8 +23,8 @@
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanak1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanak1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-stats.as93.net/api?username=alanak1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-stats.as93.net/api/top-langs/?username=alanak1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
