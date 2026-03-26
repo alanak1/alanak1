@@ -6,10 +6,9 @@
 
 ## Sobre mim
 
-- Estudante de **Cibersegurança** @ PUCPR
-- Interesse em **Segurança da Informação, Pentest e Hardening**
+- Estudante de **Cibersegurança**
 - Conhecimento em **Linux, redes e segurança de aplicações web**
-- Estudando **Red Team, Blue Team e Purple Team**
+- Estudando **Purple Team**
 - Projetos com foco em **desenvolvimento seguro (SSDLC)**
 
 <br/>
