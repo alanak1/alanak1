@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&random=false&width=435&lines=Oi%2C+eu+sou+Alana+Vasconcelos;e aí+tudo bao?+%3A)" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&random=false&width=435&lines=Oi%2C+eu+sou+Alana+Vasconcelos;e+aí+tudo+bao?+%3A)" alt="Typing SVG" /></a></h1>
 
 
 <h3 align="center"></h3>
