@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">
-Estudante de Cibersegurança | Segurança da Informação
-</h3>
+Estudante de Cibersegurança</h3>
 
 ---
 
